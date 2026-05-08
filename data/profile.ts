@@ -15,7 +15,7 @@ export const profileData: ProfileData = {
     "https://agha.studio/cdn/shop/files/agha_title_F9EFCF.png?v=1757017111&width=1200",
   links: [
     { title: "website", url: "https://agha.studio" },
-    { title: "whatsapp", url: "https://wa.me/351913494412?text=Hello,%20I%20want%20more%20informations." },
+    { title: "whatsapp", url: "https://wa.me/351913494412" },
     { title: "email", url: "mailto:contato@seusite.com" },
     { title: "instagram", url: "https://instagram.com/fernanda.agha_studio" },
   ],
