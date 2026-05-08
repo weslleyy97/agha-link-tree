@@ -47,6 +47,23 @@ body::before {
   backdrop-filter: blur(8px);
 }
 
+@media (max-width: 640px) {
+  .page {
+    padding: 14px;
+  }
+
+  .card {
+    width: 100%;
+    max-width: none;
+    padding: 34px 24px;
+    border-radius: 20px;
+  }
+
+  .avatar {
+    width: min(260px, 85%);
+  }
+}
+
 .avatar {
   width: min(220px, 70%);
   height: auto;
