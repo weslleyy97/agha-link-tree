@@ -6,8 +6,6 @@ Projeto simples em Next.js, com export estatico, pronto para publicar no GitHub 
 
 Edite apenas o arquivo `data/profile.ts`:
 
-- `name`: seu nome
-- `username`: seu usuario (ex: `@joao`)
 - `bio`: descricao curta
 - `avatarUrl`: link para imagem de perfil
 - `links`: lista de botoes com `title` e `url`
